@@ -10,7 +10,7 @@
 
 [3]pkg install git -y
 
-[4]git clone 
+[4]git clone https://github.com/MH-HACK1/MH-Tool
 
 [5] python MH-Tool.py
 
